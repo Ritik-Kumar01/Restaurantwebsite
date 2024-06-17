@@ -1,0 +1,144 @@
+{
+    "data": [{
+        "ourQualities": [{
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "FRESH SWEET",
+                "description": "Showcase your use of fresh, locally sourced sweets. Highlight how this commitment to freshness enhances the flavor and quality of your sweets while supporting local producers and reducing environmental impact."
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "With a focus on super taste, we aim to tantalize your taste buds and leave you craving for more.Experience taste sensations, as we masterfully blend ingredients to create sweets that are not just good, but truly sensational."
+
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "Express Eats",
+                "description": "Our chefs work like lightning to whip up mouthwatering meals, ensuring you get your fast food and sweet ..From order to plate in no time flat – experience the convenience of lightning-fast dish preparation at JMB"
+            }
+        ],
+        "dishes": [{
+                "id": 1,
+                "image": "./sweet7.jpeg",
+                "title": "JALEBI",
+                "category": "₹120/kg"
+            },
+            {
+                "id": 2,
+                "image": "./sweet5.jpg",
+                "title": "RED VALVET CAKE",
+                "category": "₹450/kg"
+            },
+            {
+                "id": 3,
+                "image": "./sweet1.jpg",
+                "title": "PAN BARFI",
+                "category": "₹750/kg"
+            },
+            {
+                "id": 4,
+                "image": "./sweet3.jpg",
+                "title": " TOMATO CAPISICUM PIZZA",
+                "category": "₹250"
+            },
+            {
+                "id": 5,
+                "image": "./sweet2.jpg",
+                "title": "MOTI CHUR LADDU",
+                "category": "₹160/kg"
+            },
+            {
+                "id": 6,
+                "image": "./sweet8.jpg",
+                "title": "KAJU KATLI",
+                "category": "₹500/kg"
+            },
+            {
+                "id": 7,
+                "image": "./sweet6.jpg",
+                "title": "CHANDRAKALA GUNJA",
+                "category": "₹350"
+            },
+            {
+                "id": 8,
+                "image": "./sweet9.jpg",
+                "title": "BASAN LADDU",
+                "category": "₹400/kg"
+            },
+            {
+                "id": 9,
+                "image": "./cake.jpg",
+                "title": "CAKE",
+                "category": "₹250-1000"
+            },
+            {
+                "id": 10,
+                "image": "./gevar.jpg",
+                "title": "GEVAR",
+                "category": "₹600/kg"
+            },
+            {
+                "id": 11,
+                "image": "./kalakand.jpg",
+                "title": "KALAKAND",
+                "category": "₹350/kg"
+            },
+            {
+                "id": 12,
+                "image": "./raj.jpg",
+                "title": "RAJ BHOG",
+                "category": "₹225/kg"
+            }
+
+        ],
+
+
+        "who_we_are": [{
+                "id": 1,
+                "number": "14",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [{
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+
+            {
+                "id": 5,
+                "title": "ORDERS",
+                "link": "reservation"
+            }
+        ]
+
+    }]
+}
